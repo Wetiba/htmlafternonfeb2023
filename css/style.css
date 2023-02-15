@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background: #5bff1a;
+
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 20px;
+    margin: 15px;
+    color: red;
+}
+li a:hover{
+    background: aqua;
+}
+th,td{
+    border: 2px dotted blue;
+    padding: 10px;
+    margin: 10px;
+    font-family: "DejaVu Sans Mono";
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.fruits{
+    border: 2px solid red;
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#school{
+    border: 5px dotted deeppink;
+}
